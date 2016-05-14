@@ -6,5 +6,5 @@
 * [IDE workflow](ide_workflow.md)
    * [sandbox features](sandbox_features.md)
 * [Dapp structure](dapp_structure.md)
-* Advanced concepts
+* [Advanced concepts](advanced_concepts.md)
 
