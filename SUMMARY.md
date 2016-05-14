@@ -5,6 +5,6 @@
 * [Solidity primer](solidity_primer.md)
 * [IDE workflow](ide_workflow.md)
    * [sandbox features](sandbox_features.md)
-* Dapp structure
+* [Dapp structure](dapp_structure.md)
 * Advanced concepts
 
