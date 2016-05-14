@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Introduction](chapter1.md)
-* Solidity primer
+* [Solidity primer](solidity_primer.md)
 * IDE workflow
    * sandbox features
 * Dapp structure
