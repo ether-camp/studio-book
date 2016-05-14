@@ -6,5 +6,6 @@
 * [IDE workflow](ide_workflow.md)
    * [sandbox features](sandbox_features.md)
 * [Dapp structure](dapp_structure.md)
+   * ethereum.json structure
 * [Advanced concepts](advanced_concepts.md)
 
