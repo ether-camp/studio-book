@@ -1,3 +1,14 @@
-# My Awesome Book
+# Welcome to Ether.camp Studio IDE
+1.
+1. Introduction
+2. Solidity tutorials (links)
+3. IDE primer workflow diagrams
+       .x sandbox features
+4. Description of typical app structure
+      .x ethereum.json structure
+5.Work through examples
+     .x design unit test
+     .x deploy to the blockchain
+6.advanced concepts and resources
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
