@@ -8,5 +8,6 @@
 * [Dapp structure](dapp_structure.md)
    * ethereum.json structure
    * design unit testing
+   * deploying to the blockchain
 * [Advanced concepts](advanced_concepts.md)
 
