@@ -5,4 +5,5 @@
 * Solidity primer
 * IDE workflow
 * Dapp structure
+* Advanced concepts
 
