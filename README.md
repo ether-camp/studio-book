@@ -6,8 +6,8 @@
      .x sandbox features
 5.Description of typical app structure
      .x ethereum.json structure
-     .x design unit test
-     .x deploy to the blockchain
+     .x design unit testing
+     .x deploying to the blockchain
 6.Advanced concepts and resources
 
 
