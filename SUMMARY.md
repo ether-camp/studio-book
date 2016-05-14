@@ -6,7 +6,7 @@
 * [IDE workflow](ide_workflow.md)
    * [sandbox features](sandbox_features.md)
 * [Dapp structure](dapp_structure.md)
-   * ethereum.json structure
+   * [ethereum.json structure](ethereumjson_structure.md)
    * design unit testing
    * deploying to the blockchain
 * [Advanced concepts](advanced_concepts.md)
