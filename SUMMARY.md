@@ -4,4 +4,5 @@
 * [Introduction](chapter1.md)
 * Solidity primer
 * IDE workflow
+* Dapp structure
 
