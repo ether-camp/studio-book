@@ -7,5 +7,6 @@
    * [sandbox features](sandbox_features.md)
 * [Dapp structure](dapp_structure.md)
    * ethereum.json structure
+   * design unit testing
 * [Advanced concepts](advanced_concepts.md)
 
