@@ -1,4 +1,4 @@
 # Đapp-e-chitecture
 
 
-Dapp structure begins with an 
+Dapp structure is essentially a node.js express framework. 
