@@ -10,8 +10,8 @@ What you need: **Sign on to https://live.ether.camp/signup** and come back to fo
  
 The feature set of the IDE includesall the cloud9 IDE features with extra modules to work with the Ethereum blockchain.
 
-
-  <<Built-in terminal, with npm and basic Unix commands
+ 
+>   Built-in terminal, with npm and basic Unix commands
     Code completion for snippets and identifiers
     Real-time language analysis for JavaScript (marking common JavaScript pitfalls)
     Variable/function name refactoring for JavaScript
@@ -24,7 +24,7 @@ The feature set of the IDE includesall the cloud9 IDE features with extra module
     Built in Image Editor
     Code reformatting via JSBeautify and CSSLint
     Ability to drag-and-drop files into your project
-    Support for the following code repositories:
+    Support for the code repositories:
         GitHub
         Bitbucket
         Mercurial repositories
@@ -34,11 +34,14 @@ The feature set of the IDE includesall the cloud9 IDE features with extra module
         Heroku
         Joyent
         Openshift
-        Windows Azure[5]
-        Google App Engine[6]
-        SFTP/FTP[7]
+        Windows Azure
+        Google App Engine
+        SFTP/FTP
     Support for public and private projects
     Plug-in support
-    Syntax highlighting for the following languages: C#, C/C++, Clojure, CoffeeScript, ColdFusion, CSS, Groovy, Java, Javascript, LaTeX, Lua, Markdown, OCaml, PHP, Perl, PowerShell, Python, Ruby, Scala, SCSS, SQL, Textile, X(HTML), XML>>
+    Syntax highlighting 
+
+
+
 
 
