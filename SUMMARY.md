@@ -8,5 +8,6 @@
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
 * [IDE workflow](ide_workflow.md)
    * [sandbox features](sandbox_features.md)
+   * Clone a Github repositories
 * [Advanced concepts](advanced_concepts.md)
 
