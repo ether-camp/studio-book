@@ -12,6 +12,6 @@
    * [Runing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
    * [Running your app](running_your_app.md)
-   * Send contract to the net
+   * [Send contract to the net](send_contract_to_the_net.md)
 * [Advanced concepts](advanced_concepts.md)
 
