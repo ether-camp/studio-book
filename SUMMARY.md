@@ -9,6 +9,6 @@
 * [IDE workflow](ide_workflow.md)
    * Clone a Github repositories
    * Sandbox panel
-   * [sandbox features](sandbox_features.md)
+   * [Testing a contract](sandbox_features.md)
 * [Advanced concepts](advanced_concepts.md)
 
