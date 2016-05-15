@@ -1,7 +1,9 @@
 # Example projects
 
 
-Out of the box, Studio has a very basic example project you can copy to a new project folder and edit to get going on your project.
+Out of the box, Studio has a very basic example project you can copy to a new project folder and edit to get going on your project. Example app demonstrate working with Ethereum from javascript using web3.js and ethereumjs-tx.
+
+Check web/src/app.js to set web3 JSON RPC url.
 
 Or you can study the Wallet app example which is more suitable for production.  In the terminal type: 
 
@@ -9,7 +11,7 @@ Or you can study the Wallet app example which is more suitable for production.  
 cd ~/workspace 
 git clone https://github.com/ether-camp/wallet.git``` 
   
-Which loads a copy of the Wallet.app [1] into your workspace directory.
+Which loads a copy of the Wallet.app [1] into your workspace directory:
 
 
 ![](Ether-Camp-dir1.png)
