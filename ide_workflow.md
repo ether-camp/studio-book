@@ -1,4 +1,4 @@
-# IDE work flow
+# Ethereum Studio IDE work flow
 
 
 ![](Ether-Camp2.png)
@@ -11,5 +11,5 @@
 4.  Click to open a new terminal console.
 5.  Your workspace directories. Here we see two separate projects. You can have multiple projects in your workspace. Just change directories (cd ~/[project directory name]
 6.  Run all contracts/run active contracts buttons: use to run all your contracts in your curret directory. Or use 'run active contracts' to run only the opened contracts .sol code in the text editor [3.]
-7.  
+7.  Mocha testing button. (see testing section).
 
