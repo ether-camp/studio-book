@@ -4,7 +4,7 @@
 * [Solidity primer](solidity_primer.md)
 * [Dapp structure](dapp_structure.md)
    * [Example projects](wallet__an_example_project.md)
-   * [ethereum.json structure](ethereumjson_structure.md)
+   * [ethereum.json](ethereumjson_structure.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
    * Start a new project
    * [design unit testing](design_unit_testing.md)
