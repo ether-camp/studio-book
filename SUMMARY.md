@@ -6,6 +6,7 @@
    * [ethereum.json structure](ethereumjson_structure.md)
    * [design unit testing](design_unit_testing.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
+   * Start a new project
 * [IDE workflow](ide_workflow.md)
    * Clone Github repositories
    * [Testing a contract](sandbox_features.md)
