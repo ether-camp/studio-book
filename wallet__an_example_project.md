@@ -3,7 +3,7 @@
 
 Out of the box, Studio has a very basic example project you can copy to a new project folder and edit to get going on your project. Example app demonstrate working with Ethereum from javascript using web3.js and ethereumjs-tx. Edit the web/src/app.js to check the web3 JSON RPC url.
 
-Or you can study the Wallet app example which is more suitable for production.  In the terminal type: 
+Or you can study the Wallet app example which is more complete.  In the terminal type: 
 
 ```
 cd ~/workspace 
