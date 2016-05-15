@@ -1,3 +1,3 @@
 # Running your app
 
-Once you have sandbox running and app ready you can run it with node.js and see it in a browser.
+Once you have sandbox running and app ready you can run it with node.js and see it in a browser. You need to get your ports right and 
