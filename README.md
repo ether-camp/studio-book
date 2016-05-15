@@ -41,7 +41,7 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
     Plug-in support
     Syntax highlighting 
     
-Features specific to Ethereaum Studio include: 
+Features specific to Ethereum Studio include: 
       Sandbox: a private blockchain you can use to test and debug your contracts
       Built in web3.js node module and much more...
       
