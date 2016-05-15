@@ -11,5 +11,6 @@
 * [IDE workflow](ide_workflow.md)
    * [Runing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
+   * Running your app
 * [Advanced concepts](advanced_concepts.md)
 
