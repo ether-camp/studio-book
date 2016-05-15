@@ -13,3 +13,5 @@
 [4] Sandbox tab to open running Sandbox if hidden
 
 [5] An address with ether balance. These addresses are configured in the project ethereum.json file. The purpose of these addresses is to populate the sandbox test blockchain with live addresses for testing your contract(s) annd app.
+
+You can even 'Send contracts to the net' by using the button on the top menu tool bar above the Sandbox. 
