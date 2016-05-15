@@ -7,7 +7,7 @@
    * [ethereum.json](ethereumjson_structure.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
    * [Start a new project](start_a_new_project.md)
-   * [design unit testing](design_unit_testing.md)
+   * [Design unit testing](design_unit_testing.md)
 * [IDE workflow](ide_workflow.md)
    * [Runing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
