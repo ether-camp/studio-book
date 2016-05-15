@@ -9,5 +9,6 @@
 * [IDE workflow](ide_workflow.md)
    * Clone a Github repositories
    * [sandbox features](sandbox_features.md)
+   * Testing your smart contract
 * [Advanced concepts](advanced_concepts.md)
 
