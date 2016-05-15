@@ -1,2 +1,4 @@
-# Wallet : an example project
+# Wallet: example project
+
+
 
