@@ -1,0 +1,2 @@
+# Wallet : an example project
+
