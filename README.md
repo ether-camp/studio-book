@@ -11,9 +11,9 @@ What you need: **Sign on to https://live.ether.camp/signup.** Once you log in, f
 The feature set of the IDE includes all the cloud9 IDE features with extra modules to work with the Ethereum blockchain.
 
  
->   Built-in terminal, with npm and basic Unix commands
+    Built-in terminal, with npm and basic Unix commands
     Code completion for snippets and identifiers
-    Real-time language analysis for JavaScript (marking common JavaScript pitfalls)
+    Real-time language analysis for JavaScript
     Variable/function name refactoring for JavaScript
     Parenthesis, bracket, and quote character matching
     Line numbers, warnings, and errors in the gutter
@@ -40,6 +40,7 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
     Support for public and private projects
     Plug-in support
     Syntax highlighting 
+
     
 Features specific to Ethereum Studio include: 
       Sandbox: a private blockchain you can use to test and debug your contracts
