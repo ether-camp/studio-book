@@ -9,7 +9,7 @@
    * [Start a new project](start_a_new_project.md)
    * [design unit testing](design_unit_testing.md)
 * [IDE workflow](ide_workflow.md)
-   * [Testing a contract](sandbox_features.md)
+   * [Runing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
 * [Advanced concepts](advanced_concepts.md)
 
