@@ -1,6 +1,6 @@
 # Introduction
 
 
-### What is Studio https://live.ether.camp IDE and what is it used for? 
+### What is Ethereum Studio https://live.ether.camp IDE and what is it used for? 
 
 
