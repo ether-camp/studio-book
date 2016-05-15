@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Solidity primer](solidity_primer.md)
 * [Dapp structure](dapp_structure.md)
-   * [Example project](wallet__an_example_project.md)
+   * [Example projects](wallet__an_example_project.md)
    * [ethereum.json structure](ethereumjson_structure.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
    * Start a new project
