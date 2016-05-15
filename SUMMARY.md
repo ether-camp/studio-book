@@ -8,7 +8,7 @@
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
 * [IDE workflow](ide_workflow.md)
    * Clone a Github repositories
-   * Sandbox panel
    * [Testing a contract](sandbox_features.md)
+   * Sandbox panel
 * [Advanced concepts](advanced_concepts.md)
 
