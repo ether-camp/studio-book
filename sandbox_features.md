@@ -1,4 +1,4 @@
-# Testing a contract
+# Running a contract
 
 Once you have a solidity contract code written and saved with .sol suffix, you can run the contract (deploy)it to the sandbox for testing. The wallet multisig example contract is shown here. Using the terminal, you can load the wallet app example into your workspace from github (see Example projects section). Make wallet folder your current directory. 
 
