@@ -7,7 +7,7 @@
    * [design unit testing](design_unit_testing.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
 * [IDE workflow](ide_workflow.md)
-   * [sandbox features](sandbox_features.md)
    * Clone a Github repositories
+   * [sandbox features](sandbox_features.md)
 * [Advanced concepts](advanced_concepts.md)
 
