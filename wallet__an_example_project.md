@@ -16,7 +16,7 @@ Which loads a copy of the Wallet.app [1] into your workspace directory:
 
 The app directory [2] with app.js [3], the main application javascript file. The______ file must be edited to ensure running sandbox and javascript files are pointed to the correct ports. Ethereum.json is your Sandbox configuration file you can edit to change addresses, balance etc.. .
 
-The wallet app uses [Browserfy and Gulp](https://www.viget.com/articles/gulp-browserify-starter-faq) for compile and dependecy package management. However, **with Ethereum Studio you are free to use whatever framework you choose.**
+The wallet app uses [Browserfy and Gulp](https://www.viget.com/articles/gulp-browserify-starter-faq) for compile and dependency package management. However, **with Ethereum Studio, you are free to use whatever framework you choose.**
 
 
 
