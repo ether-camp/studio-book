@@ -9,7 +9,6 @@
    * Start a new project
    * [design unit testing](design_unit_testing.md)
 * [IDE workflow](ide_workflow.md)
-   * Clone Github repositories
    * [Testing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
 * [Advanced concepts](advanced_concepts.md)
