@@ -6,7 +6,7 @@ You can start by having a look at https://live.ether.camp/ and see all the deplo
 
 Read through [Solidity tutorials](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html), do [a simple "Hello World"](https://ethereum.org/greeter) example and compile your Solidity code in your [sandbox](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/sandbox_features.html).
 
-Writing smart contracts is only part of a full Dapp deployment. One can write a contract and let users can interact and use that contract via a Ethereum node client (eg. Mist). But the full potential of Dapps enables mainstream browsers to access your smart contract for a better UX (user experience). For example see https://www.augur.net/ 
+Writing smart contracts is only part of a full Dapp deployment. One can write a contract and let users can interact and use that contract via a Ethereum node client (eg. Mist). You can **use [Ether.camp](https://live.ether.camp/contracts) online to watch ethereum blockchain Tx (transactions), addresses and invoke contracts**. But the full potential of Dapps enables mainstream browsers to access your smart contract for a better UX (user experience). For example see https://www.augur.net/ 
 
 
 
