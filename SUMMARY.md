@@ -7,7 +7,7 @@
    * [design unit testing](design_unit_testing.md)
    * [deploying to the blockchain](deploying_to_the_blockchain.md)
 * [IDE workflow](ide_workflow.md)
-   * Clone a Github repositories
+   * Clone Github repositories
    * [Testing a contract](sandbox_features.md)
    * [Sandbox panel](sandbox_panel.md)
 * [Advanced concepts](advanced_concepts.md)
