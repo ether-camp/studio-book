@@ -1,4 +1,4 @@
-#Ether.camp Studio IDE documentation
+#Ethereum Studio IDE documentation
 
 Welcome to Ether.camp Ethereum Studio. Studio is your online Dapp Integrated Development Environment (IDE) for the  Ethereum blockchain. If you are new to Ethereum smart contracts and developing applications, you've have come to the right place. If you already have an idea for a smart contract and you want to develop a web front end to launch: then you in the right place read on..
 
@@ -43,6 +43,7 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
     
 Features specific to Ethereaum Studio include: 
       Sandbox: a private blockchain you can use to test and debug your contracts
+      Built in web3.js node module and much more.
       
 
 
