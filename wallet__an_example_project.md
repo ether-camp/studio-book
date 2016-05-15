@@ -16,5 +16,7 @@ Which loads a copy of the Wallet.app [1] into your workspace directory:
 
 The app directory [2] with app.js [3], the main application javascript file. The______ file must be edited to ensure running sandbox and javascript files are pointed to the correct ports.
 
+The wallet app uses Browserfy and Gulp for compile and dependecy package management. However, with Ethereum Studio you are free to use whatever framework you choose.
+
 
 
