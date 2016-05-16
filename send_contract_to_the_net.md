@@ -10,6 +10,6 @@ Note the message Account 0x..d3 has zero wei and the JSON RPC URL [3] is set to 
 
 Now in a web browser go to [morden.ether.camp](morden.ether.camp) and click the 'Get Address button on the toolbar then 'Get Free Ether'
 
-
-![](Ether-Camp-get-ether.png
-
+![](Ether-Camp-get-ether.png)
+Then back to the Studio, fill in the values and send transaction.
+You visit morden.ether.camp afterwards to see the transaction on the morden blockchain. 
