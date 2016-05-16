@@ -11,4 +11,3 @@ Write and run your contract [5]. A API json is created in the sandbox[2]. Edit t
 
 ![](Ether-Camp.png)
 
-Ethereum Studio, out of the box, has all the node.js, npm and the ethereum node modules pre-loaded into the IDE.
