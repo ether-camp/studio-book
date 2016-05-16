@@ -4,7 +4,7 @@ Before diving into Dapp development it is important to get a good grasp of smart
 
 You can start by having a look at https://live.ether.camp/ and see all the deployed contracts on the ethereum blockchain. Their source code are often accessible to read and can be 'called' from your own deployed contracts (more on that later).
 
-Read through the [Solidity tutorials](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html), do [a simple "Hello World"](https://ethereum.org/greeter) greeter and compile your Solidity code in your [sandbox](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/sandbox_features.html).
+Read [Solidity tutorials](https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html), do [a simple "Hello World"](https://ethereum.org/greeter) greeter and compile your Solidity code in your [sandbox](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/sandbox_features.html).
 
 More tutorials:
 
