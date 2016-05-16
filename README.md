@@ -29,7 +29,7 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
     
     Themes
     
-    Customizable key-bindings, including presets for Vim, Emacs, and Sublime Text
+    Customizable key-bindings, including presets for [Vim](https://www.linux.com/learn/vim-101-beginners-guide-vim), Emacs, and [Sublime](http://www.sublimetext.com/) Text
     
     Built in Image Editor
     
@@ -45,9 +45,9 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
         FTP servers
         
     Support for deployment to:
-        Heroku
-        Joyent
-        Openshift
+        [Heroku](https://www.heroku.com/)
+        [Joyent](https://www.joyent.com/)
+        [Openshift](https://www.openshift.com/)
         Windows Azure
         Google App Engine
         SFTP/FTP
