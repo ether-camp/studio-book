@@ -1,6 +1,6 @@
 # Sandbox panel
 
-'Sandbox' is a node js module that emulates the ethereum network. Once you have a contract written, run a it and, the Sandbox panel appears on the right side of the screen. 
+'Sandbox' is a node js module that emulates the ethereum network. Once you have a contract written, run it and, the Sandbox panel appears on the right side of the screen. 
 
 ![](Ether-Camp-sandbox.png)
 
