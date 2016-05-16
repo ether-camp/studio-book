@@ -1,6 +1,6 @@
 # Solidity primer
 
-Solidity is a fully typed language (based on javascript and C##) to develop and compile smart contract code.
+Before diving into Dapp development it is important to get a good grasp of smart contract writing. Solidity is a fully typed language (based on javascript and C##) to develop and compile smart contract code.
 
 You can start by having a look at https://live.ether.camp/ and see all the deployed contracts on the ethereum blockchain. Their source code are often accessible to read and can be 'called' from your own deployed contracts (more on that later).
 
