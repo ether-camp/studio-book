@@ -12,4 +12,4 @@ Now in a web browser go to [morden.ether.camp](morden.ether.camp) and click the 
 
 ![](Ether-Camp-get-ether.png)
 Then back to the Studio, fill in the values and send transaction.
-You visit morden.ether.camp afterwards to see the transaction on the morden blockchain. 
+After a while transcation is mined. You can visit morden.ether.camp to see the transaction on the morden blockchain. 
