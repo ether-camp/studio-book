@@ -1,3 +1,3 @@
 # Running your app
 
-Once you have sandbox running and app ready you can run it with node.js and see it in a browser. You need to get your ports right and 
+Once you have sandbox running you can run your app if it is configured correctly. First we need to make sure your app has the URL of your sandbox (or livenet node). 
