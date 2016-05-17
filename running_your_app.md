@@ -4,11 +4,10 @@ Once you have sandbox running you can run your app. But,** first configure your 
 
 **Set the correct SandboxID#:
 **
-change line 
 
 ```var sandboxId = '[somenumber]';```
 
-to
+change to
 
 ```var sandboxId = '[your_running_sandboxID#]';```
 
@@ -17,15 +16,19 @@ to
 **AND**
 
 
+
 **Set the correct Sandbox URL:
 **
-change line 
 
 ```var url = 'https://' + window.location.hostname + ':8555/sandbox/' + sandboxId;```
 
-to
+change to
 
 ```var url = 'https://[your_username].by.ether.camp:8555/sandbox/' + sandboxId;```
+
+
+
+
 
 
 
