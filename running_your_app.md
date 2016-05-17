@@ -1,10 +1,13 @@
 # Running your app
 
-Once you have sandbox running you can run your app. But,** before running your app.js , it must be configured correctly**. You need to make sure your app has the URL of your sandbox (or livenet node). In the example app.js file, edit the lines
+Once you have sandbox running you can run your app. But,** before running your app.js , it must be configured correctly**. You need to make sure your app has the correct URL of your sandbox (or livenet node). In the example /workspace/example-project/web/app.js file, edit the lines
 
 **Set the correct SandboxID#:
 **
-```var sandboxId = '80ea8ad42c';```
+change line 
+
+```var sandboxId = '[somenumber]';```
+
 to
 
 ```var sandboxId = '[your_running_sandboxID#]';```
@@ -14,7 +17,9 @@ to
 **AND**
 
 
-Set the correct Sandbox URL:
+**Set the correct Sandbox URL:
+**
+change line 
 
 ```var url = 'https://' + window.location.hostname + ':8555/sandbox/' + sandboxId;```
 
@@ -24,8 +29,6 @@ to
 
 
 **Check and edit your ABI**
-In the 
 
-
-The example app.js has a Array definition ABI =[   ]
-Verifiy that
+In the /workspace/example-project/web/app.js file has a Array definition ABI =[ ....  ]
+Verifiy that its content corresponds to the ABI json in the sandbox (or livenet) contract address you deployed (see Sandbox panel section)
