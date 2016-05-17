@@ -53,9 +53,10 @@ change to
 In the /workspace/example-project/web/app.js file has a Array definition ABI =[ ....  ]
 Remember to check that its content corresponds to the ABI json in the sandbox (or livenet) contract address you deployed (see Sandbox panel section).
 
-
+**Check your contract addresses**
+[4] If your app refers to specific contracts running the sandbox, check the addresses listed in your app.
 
 ### Get Ethereum Studio ready:
+![](Ether-Camp-run-app.png)
 
-
-In the terminal change your current directory to the project folder you want to run. 
+[2] and [3] In the terminal change your current directory to the project folder you want to run. When running, in case of error, check the CWD (Change Working Directory) button and pick the project directory.
