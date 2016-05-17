@@ -46,4 +46,7 @@ Remember to check that its content corresponds to the ABI json in the sandbox (o
 
 
 
+### Get Ethereum Studio ready:
 
+
+In the terminal change your current directory to the project folder you want to run. 
