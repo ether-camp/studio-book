@@ -1,25 +1,34 @@
 # Running your app
 
-Once you have sandbox running you can run your app. But,** first configure your app.js correctly**. You need to make sure your app has the correct JSON-RPC URL of your sandbox (or livenet node). In the example /workspace/example-project/web/app.js file, edit the lines.
+Once you have sandbox running you can run your app. But,** first configure some things correctly**. 
+
+![](Ether-Camp-run-app.png)
+
+You need to make sure your app has the correct JSON-RPC URL of your sandbox (or livenet node). In the example /workspace/example-project/web/app.js file, edit the lines.
 
 ## 
+
 
 
 
 **Set the correct SandboxID#:**
 
-```var sandboxId = '[somenumber]';```
+```var sandboxId = '[somenumber]';
+var url = 'https://[username].by.ether.camp:8555/sandbox/' + sandboxId;
+var web3 = new Web3(new Web3.providers.HttpProvider(url));```
 
-change to
+[1] change to
 
-```var sandboxId = '[your_running_sandboxID#]';```
+```var sandboxId = '[your_running_sandboxID#]';
+var url = 'https://[username].by.ether.camp:8555/sandbox/' + sandboxId;
+var web3 = new Web3(new Web3.providers.HttpProvider(url));```
 
 
 ## 
 
 
 
-**AND**
+**AND in line below**
 
 
 ## 
