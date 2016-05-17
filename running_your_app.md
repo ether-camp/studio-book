@@ -2,8 +2,8 @@
 
 Once you have sandbox running you can run your app. But,** before running your app.js , it must be configured correctly**. You need to make sure your app has the URL of your sandbox (or livenet node). In the example app.js file, edit the lines
 
-Set the correct SandboxID#:
-
+**Set the correct SandboxID#:
+**
 ```var sandboxId = '80ea8ad42c';```
 to
 
@@ -11,7 +11,7 @@ to
 
 
 
-AND
+**AND**
 
 
 Set the correct Sandbox URL:
@@ -22,3 +22,10 @@ to
 
 ```var url = 'https://[username].by.ether.camp:8555/sandbox/' + sandboxId;```
 
+
+**Check and edit your ABI**
+In the 
+
+
+The example app.js has a Array definition ABI =[   ]
+Verifiy that
