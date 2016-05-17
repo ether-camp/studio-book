@@ -32,3 +32,7 @@ to
 
 In the /workspace/example-project/web/app.js file has a Array definition ABI =[ ....  ]
 Verifiy that its content corresponds to the ABI json in the sandbox (or livenet) contract address you deployed (see Sandbox panel section).
+
+
+
+
