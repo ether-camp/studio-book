@@ -11,13 +11,13 @@ You need to make sure your app has the correct JSON-RPC URL of your sandbox (or 
 
 
 
-**Set the correct SandboxID#:**
+[1] **Set the correct SandboxID#:**
 
 ```var sandboxId = '[somenumber]';
-var url = 'https://[username].by.ether.camp:8555/sandbox/' + sandboxId;
+var url = 'http://' + window.location.hostname + ':8555/sandbox/' + sandboxId;
 var web3 = new Web3(new Web3.providers.HttpProvider(url));```
 
-[1] change to
+change to
 
 ```var sandboxId = '[your_running_sandboxID#]';
 var url = 'https://[username].by.ether.camp:8555/sandbox/' + sandboxId;
