@@ -28,14 +28,10 @@ change to
 
 
 
-
-
-
-
 **Check and edit your ABI as needed**
 
 In the /workspace/example-project/web/app.js file has a Array definition ABI =[ ....  ]
-Verifiy that its content corresponds to the ABI json in the sandbox (or livenet) contract address you deployed (see Sandbox panel section).
+Remember to check that its content corresponds to the ABI json in the sandbox (or livenet) contract address you deployed (see Sandbox panel section).
 
 
 
