@@ -59,4 +59,4 @@ Remember to check that its content corresponds to the ABI json in the sandbox (o
 ### Get Ethereum Studio ready:
 ![](Ether-Camp-run-app.png)
 
-[2] and [3] In the terminal change your current directory to the project folder you want to run. When running, in case of error, check the CWD (Change Working Directory) button and pick the project directory.
+[2] and [3] change your current directory to the project folder you want to run. Click the CWD (Change Working Directory) button and pick the project directory.
