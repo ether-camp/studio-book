@@ -1,4 +1,4 @@
-#Ethereum Studio IDE documentation
+#[Ethereum Studio IDE documentation](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/)
 
 Welcome to Ether.camp Ethereum Studio. Studio is your online Dapp Integrated Development Environment (IDE) for the  Ethereum blockchain and decentralized web. If you are new to Ethereum smart contracts and developing applications, you've have come to the right place. If you already have an idea for a smart contract and you want to develop a web front end to launch: then you are in the right place [read on](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/dapp_structure.html).
 
