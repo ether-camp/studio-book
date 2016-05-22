@@ -59,4 +59,25 @@ Remember to check that its content corresponds to the ABI json in the sandbox (o
 ### Get Ethereum Studio ready:
 ![](Ether-Camp-run-app.png)
 
-[2] and [3] change your current directory to the project folder you want to run. Click the CWD (Change Working Directory) button and pick the project directory. Clear item [3].
+If you want to run a specific javascript file then see item [2] and [3] change your current directory to the project folder you want to run. Click the CWD (Change Working Directory) button and pick the project directory. Clear item [3].
+
+For development and production the example-project is configured for :
+
+Building:
+```
+$ npm install gulp-cli -g
+$ npm install
+$ gulp
+```
+
+Testing:
+```
+$ gulp test
+```
+
+Running:
+```
+$ cd web
+$ npm install http-server -g
+$ http-server
+```
