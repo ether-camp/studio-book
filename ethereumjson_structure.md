@@ -6,6 +6,7 @@ This file is at the root of your project folder to ensure Sandbox runs with pre 
 {
   "contracts": "contracts", 
   
+  //sandbox environment
   "env": {
     "block": { //block details of sandbox
       "coinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
@@ -13,6 +14,7 @@ This file is at the root of your project folder to ensure Sandbox runs with pre 
       "gasLimit" : 3141592,
       "gasPrice": 60000000000
     },
+    // list of accounts that will be created when running sandbox
     "accounts": {//your list of sample accounts
       "0xdedb49385ad5b94a16f236a6890cf9e0b1e30392": {
         "balance": 1000000000000000000000000000000000000000000000000000000 ,
