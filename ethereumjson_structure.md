@@ -1,17 +1,17 @@
 # ethereum.json
 This file is at the root of your project folder to ensure Sandbox runs with pre funded accounts addresses. If you start a new project, make sure you have an ethereum.json file in place:
 
-```{
-  "contracts": "contracts",
+```{//your list of contracts
+  "contracts": "contracts", 
   
   "env": {
-    "block": {
+    "block": { //block details of sandbox
       "coinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
       "difficulty" : "0x0100",
       "gasLimit" : 3141592,
       "gasPrice": 60000000000
     },
-    "accounts": {
+    "accounts": {//your list of sample accounts
       "0xdedb49385ad5b94a16f236a6890cf9e0b1e30392": {
         "balance": 1000000000000000000000000000000000000000000000000000000 ,
         "nonce": "0x1cf",
