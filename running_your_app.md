@@ -1,6 +1,6 @@
 # Running your app
 
-Once you have sandbox running you can run your app. But,** first configure some things correctly**. 
+Once you have sandbox running you can run your app. But,** first configure some things correctly**. Here below is the checklist for running the example project. To set up and run your own dapps you can use this sample as a starting point and/or configure your own contract folder and[ ethereum.json](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/ethereumjson_structure.html) to create your own sandbox runtime.
 
 ![](Ether-Camp-run-app.png)
 
