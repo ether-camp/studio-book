@@ -15,7 +15,7 @@ More tutorials:
 * [http://solidity.readthedocs.io/en/latest/](http://solidity.readthedocs.io/en/latest/)
 
 
-Writing smart contracts is a subset of full Dapp deployment. One can write a contract and let users can interact and use that contract via a Ethereum node client (eg. Mist). You can **use [Ether.camp](https://live.ether.camp/contracts) online to watch ethereum blockchain Tx (transactions), addresses and invoke contracts**. But the full potential of Dapps enables  UX (user experience) and more functionalities. For example see https://www.augur.net/ 
+Writing smart contracts is a subset of full Dapp deployment. One can write a contract and let users can interact and use that contract via a Ethereum node client (eg. Mist). You can **use [live.ether.camp/contracts](https://live.ether.camp/contracts) online to watch ethereum blockchain Tx (transactions), addresses and invoke contracts**. But the full potential of Dapps enables  UX (user experience) and more functionalities. For example see https://www.augur.net/ 
 
 
 
