@@ -1,7 +1,7 @@
 # ethereum.json
 This file is at the root of your project folder to ensure Sandbox runs with pre funded accounts addresses. If you start a new project, make sure you have an ethereum.json file in place:
 
-```{//your list of contracts
+```{
   "contracts": "contracts", 
   
   "env": {
