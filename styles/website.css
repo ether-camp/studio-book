@@ -1,4 +1,40 @@
 /* CSS */
-.book .book-body {
-  background-color: #bbad4e;
+.book-navigation .menu {
+  border-top: 1px solid #D6D6D6;
+  padding: 1em 0 0 3em; /* LTR */
+}
+.book-navigation .page-links {
+  border-bottom: 1px solid #D6D6D6;
+  border-top: 1px solid #D6D6D6;
+  letter-spacing: -3px; /* removes the inline-block letter-spacing on the .page-links list elements */
+  margin: 0;
+  padding: 0.5em 0;
+  overflow: auto;
+}
+.page-links li {
+  display: inline-block;
+  *display: inline;
+  *float:left; /* in ie7 the .page-next float:right adds a line break - unless it has this float:left */
+  list-style-type: none;
+  letter-spacing: normal; /* cleans up the negative letter spacing that was set in .page-links */
+  *zoom: 1;
+}
+.page-links li a b {
+  display: inline-block;
+  *display: inline;
+  margin: 0 0.5em;
+  *zoom: 1;
+}
+.page-links .page-previous {
+  text-align: left;
+  width: 45%;
+}
+.page-links .page-up {
+  text-align: center;
+  width:9.8%;
+}
+.page-links .page-next {
+  float: right;
+  width: 45%;
+  text-align: right;
 }
