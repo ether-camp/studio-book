@@ -2,7 +2,11 @@
 
 Welcome to Ether.camp Ethereum Studio. Studio is your online Dapp Integrated Development Environment (IDE) for the  Ethereum blockchain and decentralized web. If you are new to Ethereum smart contracts and developing applications, you've have come to the right place. If you already have an idea for a smart contract and you want to develop a web front end to launch: then you are in the right place [read on](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/dapp_structure.html).
 
-What you need: **Sign on to https://live.ether.camp/signup.** Once you log in, you can already familiarize yourself with the interface. The Ethereum Studio IDE is based on the open source [cloud9](c9.io) online IDE. Color is glaring white when starting. Not to worry, you can adjust your colors by selecting the [cloud9 menu -preferences-themes](https://docs.c9.io/docs/themes).
+What you need: **Sign on to https://live.ether.camp/signup.** Once you log in, 
+
+![](Ether-studio-button.png)
+
+Start and within moment your IDE screen appears with a terminal to your own remote Ubuntu Linux 14.04 workspace. You can already familiarize yourself with the interface. The Ethereum Studio IDE is based on the open source [cloud9](c9.io) online IDE. Color is glaring white when starting. Not to worry, you can adjust your colors by selecting the [cloud9 menu -preferences-themes](https://docs.c9.io/docs/themes).
 
 ![](Ether-Camp-light.png)
 
