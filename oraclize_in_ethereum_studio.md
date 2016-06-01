@@ -1,2 +1,2 @@
-# Oraclize in Ethereum Studio
+# Oraclize in Studio
 
