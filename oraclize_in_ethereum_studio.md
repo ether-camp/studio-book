@@ -10,9 +10,21 @@ Yes, now you can use Oraclize directly from within Ethereum Studio's IDE. Detail
 
 3.Edit your project contract Solidity file to 'import' the oraclizeAPI.sol (see item [3] in screenshot above).-make sure the folder path corresponds to your project's contract folder location. If you keep a libs folder for imported .sol files eg. then ```import "lib/oraclizeAPI.sol";``` In the workspace above it's simply ```import "oraclizeAPI.sol";``` since the contract and the imported .sol are in the same folder.
 
-4.To test it run your project contract.sol [4]
+4.You may run your project contract.sol [4]
 
-5.Note the new plugin tab . Click on that and the Oraclize panel appears. Now you can test queries and 
+5.Note the new plugin tab . Click on that and the Oraclize panel appears.  and 
+![](Ether-Studio-screen2-Oraclize.png)
+6.Now you can test queries in either manual or live mode (auto)
+
+7.Click on 'Test query' 
+
+8.and a pop up appears allowing you try out Oraclize with a specific URL, Wolfram formula, or BTC blockchain queries.
+
+9.Try random, and surprise yourself with the possibilities of this awsome utility in your Dapps.
+
+
+
+
 
 
 
