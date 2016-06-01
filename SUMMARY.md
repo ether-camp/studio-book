@@ -13,5 +13,5 @@
    * [Send contract to the net](send_contract_to_the_net.md)
    * [Running your app](running_your_app.md)
 * [Advanced concepts](advanced_concepts.md)
-   * [Oraclize in Ethereum Studio](oraclize_in_ethereum_studio.md)
+   * [Oraclize in Studio](oraclize_in_ethereum_studio.md)
 
