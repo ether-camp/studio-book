@@ -12,7 +12,9 @@ Yes, now you can use Oraclize directly from within Ethereum Studio's IDE. Detail
 
 4.To test it run your project contract.sol [4]
 
-5.Run 
+5.Note the new plugin tab . Click on that and the Oraclize panel appears. Now you can test queries and 
+
+
 
 
 
