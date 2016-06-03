@@ -3,6 +3,16 @@
 .book-summary ul.summary li span {
     color: #fff;
 }
+
+
+
+/* CSS */
+
+
+.book-summary ul.summary li a,
+.book-summary ul.summary li span {
+    color: #fff;
+}
 .book-summary {
     font-family: @font-family-sans;
 
