@@ -1,2 +1,18 @@
 /* CSS */
 
+.book-summary {
+    font-family: @font-family-sans;
+
+    position: absolute;
+    top: 0px;
+    left: -@sidebar-width;
+    bottom: 0px;
+    z-index: 1;
+    overflow-y: auto;
+
+    width: @sidebar-width;
+    color: color: #f4bf75;
+    background: @sidebar-background;
+    border-right: @sidebar-border-right;
+}
+
