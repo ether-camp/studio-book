@@ -11,7 +11,7 @@
     overflow-y: auto;
 
     width: @sidebar-width;
-    color: color: #f4bf75;
+    color: #f4bf75;
     background: @sidebar-background;
     border-right: @sidebar-border-right;
 }
