@@ -1,3 +1,38 @@
+
+.book-header {
+    font-family: @font-family-sans;
+
+    overflow: visible;
+    height: @header-height;
+    padding: 0px 8px;
+    z-index: 2;
+
+    font-size: 0.85em;
+    color: #fff;
+    background: #303130;
+
+    .btn {
+        display: block;
+        height: @header-height;
+        padding: 0px 15px;
+        border-bottom: none;
+        color: @header-button-color;
+        text-transform: uppercase;
+        line-height: @header-height;
+        .box-shadow(none) !important;
+        position:relative;
+        font-size: @font-size-base;
+
+        &:hover {
+            position: relative;
+            text-decoration: none;
+            color: @header-button-hover-color;
+            background: @header-button-hover-background;
+        }
+    }
+
+
+
 /* CSS */
 .book-summary ul.summary li a,
 .book-summary ul.summary li span {
