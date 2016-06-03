@@ -50,7 +50,7 @@
 
             &.done {
                 > a {
-                    color: @sidebar-link-completed;
+                    color: #fff;
                     font-weight: @sidebar-link-completed-weight;
 
                     i {
@@ -76,7 +76,7 @@
             }
 
             &.active > a {
-                color: @sidebar-link-hover-color;
+                color: #fff;
                 background: @sidebar-link-hover-background;
                 text-decoration: none;
             }
