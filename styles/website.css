@@ -29,7 +29,7 @@
                 padding: @sidebar-link-padding-v @sidebar-link-padding-h;
                 padding-top: 20px;
                 text-transform: uppercase;
-                color: @sidebar-header-color;
+                color: #fff;
             }
 
             &.divider {
