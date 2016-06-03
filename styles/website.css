@@ -11,8 +11,8 @@
     overflow-y: auto;
 
     width: @sidebar-width;
-    color:  @sidebar-color;
-    background: @sidebar-background;
+    color:  #fff;
+    background: #303130;
     border-right: @sidebar-border-right;
     
     ul.summary {
