@@ -11,8 +11,8 @@
     overflow-y: auto;
 
     width: @sidebar-width;
-    color: #ffffff;
-    background: #4d394b;
+    color:  @sidebar-color;
+    background: @sidebar-background;
     border-right: @sidebar-border-right;
 }
 
