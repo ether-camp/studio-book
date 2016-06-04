@@ -61,9 +61,11 @@ Remember to check that its content corresponds to the ABI json in the sandbox (o
 
 If you want to run a specific javascript file then see item [2] and [3] change your current directory to the project folder you want to run. Click the CWD (Change Working Directory) button and pick the project directory. Clear item [3].
 
-For development and production the example-project is configured for :
+At the terminal, Change directory to the workspace/example-project directory
 
-Building:
+```cd ~/workspace/example-project```
+
+Build:
 ```
 $ npm install gulp-cli -g
 $ npm install
