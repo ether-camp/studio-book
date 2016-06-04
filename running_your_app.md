@@ -100,6 +100,6 @@ Back on the webpage in the form enter a string,click 'CALL' wait and see the tra
 
 There you see  that your transaction went throuh and gas got spent.. This little example doesn't do much... fork it and make your own app.. visit the [slack page for support](https://ether-camp-friends.slack.com/messages/general/)
 
-If you found this documentation useful you can send some ethers to the author's address:
+If you found this documentation useful you can send some live ethers to the author's address:
 0x44cd5bb33b14e2d12bb2e3cd4428d8238dd0ecf1
 
