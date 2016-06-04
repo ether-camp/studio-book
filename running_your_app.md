@@ -92,7 +92,7 @@ A simple form and button appear,
 
 Now open a web console to able to see any console.log messages tht appear at next step
 
-Back on the webpage in the form enter a string,click 'CALL' wait and see the transaction message appear on the console.log.
+Back on the webpage in the form enter a string,click 'CALL' wait and see the transaction receipt appear on the console.log.
 
 
 ```Object { transactionHash: "0xb251215266d9185fab711157e3b6b62d8…", transactionIndex: 1, blockNumber: 458, blockHash: "0x1e36bf6f0a8451c83e01570c0f6f431a6…", cumulativeGasUsed: 21362, gasUsed: 21362, contractAddress: null, logs: Array[0] }```
