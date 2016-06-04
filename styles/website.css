@@ -3,7 +3,7 @@
     padding: 6px;
     background: transparent;
     transition: top 0.5s ease;
-    background: #fff;
+    background: #303130;
     border-bottom: 1px solid @header-border;
     border-top: 1px solid @header-border;
     margin-bottom: 10px;
@@ -19,7 +19,7 @@
         outline: none;
         line-height: 22px;
         padding: 7px 7px;
-        color: inherit;
+        color: #fff;
     }
 }
 
