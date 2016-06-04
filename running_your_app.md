@@ -98,7 +98,7 @@ Back on the webpage in the form enter a string,click 'CALL' wait and see the tra
 ```Object { transactionHash: "0xb251215266d9185fab711157e3b6b62d8…", transactionIndex: 1, blockNumber: 458, blockHash: "0x1e36bf6f0a8451c83e01570c0f6f431a6…", cumulativeGasUsed: 21362, gasUsed: 21362, contractAddress: null, logs: Array[0] }```
 
 
-There you see  that your transaction went throuh and gas got spent.. This little example doesnt do much... fork it and make your own app.. visit the [slack page for support](https://ether-camp-friends.slack.com/messages/general/)
+There you see  that your transaction went throuh and gas got spent.. This little example doesn't do much... fork it and make your own app.. visit the [slack page for support](https://ether-camp-friends.slack.com/messages/general/)
 
 If you found this documentation useful you can send some ethers to the author's address:
 0x44cd5bb33b14e2d12bb2e3cd4428d8238dd0ecf1
