@@ -20,7 +20,12 @@ Yes, now you can use Oraclize directly from within Ethereum Studio's IDE. Detail
 
 8.and a pop up appears allowing you try out Oraclize with a specific URL, Wolfram formula, or BTC blockchain queries.
 
-9.Try 'Random', and surprise yourself with the possibilities of this awesome utility in your Dapps.
+9.Try 'Random', and surprise yourself with the possibilities of this awesome utility in your Dapps. 
+
+
+### Explore and learn the Oraclize [solidity contract](https://live.ether.camp/account/88e1315687aec48a72786c6b3b3f075208b62713/contract) and [documentation](http://docs.oraclize.it/).
+
+
 
 
 
