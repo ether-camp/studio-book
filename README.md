@@ -1,6 +1,6 @@
 #[Ethereum Studio IDE documentation](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/)
 
-Welcome to Ether.camp Ethereum Studio. Studio is your online Dapp Integrated Development Environment (IDE) for the  Ethereum blockchain and decentralized web. If you are new to Ethereum smart contracts and developing applications, you've have come to the right place. If you already have an idea for a smart contract and you want to develop a web front end to launch: then you are in the right place [read on](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/dapp_structure.html).
+Welcome to Ether.camp Ethereum Studio. Studio is your online Dapp Integrated Development Environment (IDE) for the  Ethereum blockchain and decentralized web. If you are new to Ethereum smart contracts and developing applications, you've have come to the right place. If you already have an idea for a smart contract and you want to develop a web front end to launch: then you are in the right place [read on](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/dapp_structure.html). And remember to join the [slack team ]https://ether-camp-friends.slack.com/messages/ide-questions/)for additional help.
 
 What you need: **Sign on to https://live.ether.camp/signup.** Once you log in, 
 
@@ -62,6 +62,7 @@ The feature set of the IDE includes all the cloud9 IDE features with extra modul
 Features specific to Ethereum Studio include: 
       Sandbox: a private blockchain you can use to test and debug your contracts
       Built in web3.js node module and much more...
+      
       
 
 
