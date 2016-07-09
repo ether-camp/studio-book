@@ -1,6 +1,10 @@
 # Solidity Testing
 
-Since D-day Ive been gathering up a list of links formal solidity testing frameworks. These projects that aim to add a layer of semantic reasoning and verification to writing smart contracts. 
+### or Learn to love N.D.T. (Non Destructive Testing)
+
+
+
+Since D-day Ive been gathering up a list of links formal solidity testing frameworks. These projects aim to add a layer of semantic reasoning and verification to writing smart contracts. 
 
 https://github.com/ether-camp/ethereum-testing-reference <--A self contained simple Ethereum testing system for Solidity smart contracts. 
 
