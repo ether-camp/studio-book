@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Solidity primer](solidity_primer.md)
+   * Solidity Testing
 * [Dapp structure](dapp_structure.md)
    * [Example projects](wallet__an_example_project.md)
    * [Start a new project](start_a_new_project.md)
