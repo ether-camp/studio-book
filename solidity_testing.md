@@ -5,7 +5,7 @@
 
 
 Since D-day Ive been gathering up links to formal solidity testing frameworks/projects. These projects aim to add a layer of semantic reasoning and verification to writing smart contracts. 
-These are in progress beta in development.
+These are still in development and new methods are evolving.
 
 [https://github.com/ether-camp/ethereum-testing-reference](https://github.com/ether-camp/ethereum-testing-reference) <--A self contained simple Ethereum testing system for Solidity smart contracts. 
 
