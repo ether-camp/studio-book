@@ -16,7 +16,7 @@ Also, Eris Industries tutorials show some useful strategies for structuring comp
 [Solidity Language Features](https://docs.erisindustries.com/tutorials/solidity/solidity-3/)
 
 
-AND OBSERVE [BEST PRACTICES](http://solidity.readthedocs.io/en/latest/miscellaneous.html#tips-and-tricks) AND UPDATES BEFORE DEPLOYING LIVE. EVEN BETTER, [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) , [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) and [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html).
+OBSERVE [BEST PRACTICES](http://solidity.readthedocs.io/en/latest/miscellaneous.html#tips-and-tricks) AND UPDATES BEFORE DEPLOYING LIVE AND [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) , [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) and [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html).
 
 
 
