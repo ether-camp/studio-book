@@ -4,8 +4,6 @@ Writing smart contracts is a subset of full Dapp deployment. One can write a con
 
 But before diving into Dapp development it is important to get a good grasp of smart contract writing. Solidity is a fully typed language (based on javascript and C##) to develop and compile smart contract code.
 
-You can start by having a look at [https://live.ether.camp/](https://live.ether.camp/) and see all the deployed contracts on the ethereum blockchain. Their source code are often accessible to read  and can be 'called' -at your own risk- from your own deployed contracts (more on that later).
-
 Read [Solidity tutorials](http://solidity.readthedocs.io/en/latest/solidity-by-example.html), do a simple "Hello World" greeter and compile your Solidity code in your [sandbox](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/sandbox_features.html). See tutorials: * [http://solidity.readthedocs.io/en/latest/](http://solidity.readthedocs.io/en/latest/)
 
 Also, Eris Industries tutorials show some useful strategies for structuring complex contracts:
