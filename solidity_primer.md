@@ -9,9 +9,9 @@ Read [Solidity tutorials](http://solidity.readthedocs.io/en/latest/solidity-by-e
 More tutorials: * [http://solidity.readthedocs.io/en/latest/](http://solidity.readthedocs.io/en/latest/)
 and see Eris Industries tutorials with some useful strategies to structuring complex contracts should you choose to go that route:
 
-    [The Five Types Model](https://docs.erisindustries.com/tutorials/solidity/solidity-1/)
-    [Action-Driven Architecture](https://docs.erisindustries.com/tutorials/solidity/solidity-2/)
-    [Solidity Language Features](https://docs.erisindustries.com/tutorials/solidity/solidity-3/)
+[The Five Types Model](https://docs.erisindustries.com/tutorials/solidity/solidity-1/)
+[Action-Driven Architecture](https://docs.erisindustries.com/tutorials/solidity/solidity-2/)
+[Solidity Language Features](https://docs.erisindustries.com/tutorials/solidity/solidity-3/)
 
 AND OBSERVE [BEST PRACTICES](http://solidity.readthedocs.io/en/latest/miscellaneous.html#tips-and-tricks) AND UPDATES BEFORE DEPLOYING LIVE
 
