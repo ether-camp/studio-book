@@ -16,7 +16,7 @@ Also, Eris Industries tutorials show some useful strategies for structuring comp
 [Solidity Language Features](https://docs.erisindustries.com/tutorials/solidity/solidity-3/)
 
 
-OBSERVE [BEST PRACTICES](https://github.com/ConsenSys/smart-contract-best-practices) AND [UPDATES](http://solidity.readthedocs.io/en/latest/security-considerations.html) BEFORE DEPLOYING LIVE AND [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) , [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) and [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html).
+OBSERVE [BEST PRACTICES](https://github.com/ConsenSys/smart-contract-best-practices) (ref: ConsenSys) AND [UPDATES](http://solidity.readthedocs.io/en/latest/security-considerations.html) BEFORE DEPLOYING LIVE AND [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) , [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html) and [TEST](https://nogo10.gitbooks.io/ether-camp-live-studio-primer/content/solidity_testing.html).
 
 
 
