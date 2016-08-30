@@ -1,4 +1,4 @@
-# Deploy to Heroku*
+# Deploying to Heroku*
 
 Heroku is a well known PaaS (Platform as a Service) site with free access to [deploy your Apps](https://devcenter.heroku.com/articles/getting-started-with-nodejs#prepare-the-app). It is scalable and reasonable in cost for small projects. Read Heroku's [excellent documentation and tutorials](https://devcenter.heroku.com/articles/deploying-nodejs#prerequisites). The isntructions here are for conventional Apps -not Ethereum Dapps*.  You will need a github account if you don't have one. Set a IDE project folder as master with a repository on github. Then when ready, sign-up to a free Heroku account.
 
