@@ -16,6 +16,6 @@ A Heroku deploy sequence from the terminal:
 
 ```heroku ps:scale web=1
 
-```heroku open```
+```heroku open
 
 *It is beyond the scope of this document to explain git version control, Heroku's api extensions, procfile and other details. 
