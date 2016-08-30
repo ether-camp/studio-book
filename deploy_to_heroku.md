@@ -18,4 +18,4 @@ A Heroku deploy sequence from the terminal:
 
 ```heroku open
 
-*It is beyond the scope of this document to explain git version control, Heroku's api extensions, procfile and other details. 
+*It is beyond the scope of this document to explain git version control, Heroku's api extensions, procfile and other details. *
