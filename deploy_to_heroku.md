@@ -4,12 +4,18 @@ Heroku is a well known PaaS (Platform as a Service) site with free access to [de
 
 A Heroku deploy sequence from the terminal:
 
-git remote add origin https://github.com/[USER_NAME]/[PROJECT_FOLDER]             
-npm init --yes
-git add --all
-git commit -am "improved something"
-git push heroku master
-heroku ps:scale web=1
-heroku open
+* git remote add origin https://github.com/[USER_NAME]/[PROJECT_FOLDER]             
+
+* npm init --yes
+
+* git add --all
+
+* git commit -am "improved something"
+
+* git push heroku master
+
+* heroku ps:scale web=1
+
+* heroku open
 
 *It is beyond the scope of this document to explain git version control, Heroku's api extensions, procfile and other details. 
