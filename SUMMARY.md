@@ -16,5 +16,5 @@
 * [Advanced concepts](advanced_concepts.md)
    * [Oraclize in Studio](oraclize_in_ethereum_studio.md)
    * [Deploy to Heroku](deploy_to_heroku.md)
-   * [Deploy Metamask](deploy_metamask.md)
+   * [Deploy to Metamask browsers](deploy_metamask.md)
 
