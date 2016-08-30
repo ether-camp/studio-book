@@ -15,6 +15,6 @@
    * [Running your app](running_your_app.md)
 * [Advanced concepts](advanced_concepts.md)
    * [Oraclize in Studio](oraclize_in_ethereum_studio.md)
-   * Deploy to Heroku
+   * [Deploy to Heroku](deploy_to_heroku.md)
    * [Deploy Metamask](deploy_metamask.md)
 
