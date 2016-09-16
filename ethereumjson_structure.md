@@ -1,21 +1,24 @@
-# ethereum.json
+# ethereum.json 
+(updated fir new sol 0.4 and IDE)
+
 This file is at the root of your project folder to ensure Sandbox runs with pre funded accounts addresses. If you start a new project, make sure you have an ethereum.json file in place:
 
+**NEW update: Note** ```  "deploy": ["Contract"],```  in the ethereum.json file. This is where you list the contract(s) you want deployed. If nothing is listed, all contracts in the project contract folder will be deployed when you select 'run all contracts' in the IDE 
 ```
 //your list of contracts
 {
-  "contracts": "contracts", 
+  "contracts": "contracts",
   
-  //sandbox environment
+  "deploy": ["Contract"],
+  
   "env": {
-    "block": { //block details of sandbox
+    "block": {
       "coinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
       "difficulty" : "0x0100",
       "gasLimit" : 3141592,
       "gasPrice": 60000000000
     },
-    // list of accounts that will be created when running sandbox
-    "accounts": {//your list of sample accounts
+    "accounts": {
       "0xdedb49385ad5b94a16f236a6890cf9e0b1e30392": {
         "balance": 1000000000000000000000000000000000000000000000000000000 ,
         "nonce": "0x1cf",
@@ -34,7 +37,10 @@ This file is at the root of your project folder to ensure Sandbox runs with pre 
       },
       "0x084f6a99003dae6d3906664fdbf43dd09930d0e3": {
         "balance": 1234567890123345,
-        "source": "_pre/name_reg.sol"
+        "deploy": {
+          "source": "_pre/name_reg.sol",
+          "contract": "NameReg"
+        }
       }
     }
   }
