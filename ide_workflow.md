@@ -10,6 +10,6 @@ Anatomy of the IDE
 3.  Configurable tabbed editor screen compatible with standard code editors. Features full syntax highlighting (Solidity, javascript and all popular languages).
 4.  Click to open a new terminal console, new file, new run configuration or new window.
 5.  Your workspace directories. Here we see two separate projects. You can have multiple projects in your workspace. Just change directories (cd ~/[project directory name]
-6.  Run all contracts/run active contracts buttons: use to run all your contracts in your curret directory. Or use 'run active contracts' to run only the opened contracts .sol code in the text editor [3.]
+6.  Run all contracts/run active contracts buttons: use to run all your contracts in your current directory. Or use 'run active contracts' to run only the opened contracts .sol code in the text editor [3.]
 7.  Mocha testing button. (see testing section later).
 
