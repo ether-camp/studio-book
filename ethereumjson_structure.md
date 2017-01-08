@@ -3,7 +3,7 @@
 
 This file is at the root of your project folder to ensure Sandbox runs with pre funded accounts addresses. If you start a new project, make sure you have an ethereum.json file in place:
 
-**NEW update: Note** ```  "deploy": ["Contract"],```  in the ethereum.json file. This is where you list the contract(s), in your project contract folder, you want deployed. If nothing is listed, all contracts in the project contract folder will be deployed when you select 'run all contracts' in the IDE.
+**NEW update: Note** ```  "deploy": ["Contract"],```  in the ethereum.json file. This is where you list the contract(s), in your project contracts folder, you want deployed. If nothing is listed, all contracts in the project contracts folder will be deployed when you select 'run all contracts' in the IDE.
 
 Below is a complete ethereum.json file for the example project:
 ```
